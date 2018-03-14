@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="btn_text">开始下载</string>
+</resources>
