@@ -1,1 +1,1 @@
-include ':app', ':asynctask', ':threadpoolexecutor', ':imageglide'
+include ':app', ':asynctask', ':threadpoolexecutor', ':imageglide', ':animation'
